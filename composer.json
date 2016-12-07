@@ -1,0 +1,14 @@
+{
+    "name": "joel/php7",
+    "description": "PHP 7 Compatibility checker",
+    "authors": [
+        {
+            "name": "Joel Jacob",
+            "email": "joel@viastudio.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "sstalle/php7cc": "^1.1"
+    }
+}
